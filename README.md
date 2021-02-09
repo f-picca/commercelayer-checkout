@@ -6,7 +6,7 @@ This application provides you with a **PCI-compliant**, **PSD2-compliant**, and 
 
 ![Demo](docs/demo.gif?raw=true 'Demo')
 
-## Getting started
+## Getting started  v 
 
 You can get your checkout application up and running in 4 simple steps:
 
